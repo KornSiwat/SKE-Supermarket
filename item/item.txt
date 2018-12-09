@@ -1,0 +1,5 @@
+Item Lists:
+lay,20
+hamburger,40
+Coke,27
+Beer,130

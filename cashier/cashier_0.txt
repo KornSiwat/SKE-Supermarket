@@ -1,0 +1,7 @@
+Transaction History of Cashier 0
+
+Customer: 28
+
+	1).lay Price: 20 Baht
+
+	Total: 20
